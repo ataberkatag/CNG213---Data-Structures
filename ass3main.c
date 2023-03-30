@@ -1,5 +1,5 @@
 //I did this assignment in the vscode because i am using mac.
-#include"ass3.c"
+#include"Assignment-2.c"
 
 AVLTree readData(char**);
 AVLTree insertPhoto(AVLTree,Details*,int);
