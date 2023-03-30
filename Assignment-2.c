@@ -1,4 +1,4 @@
-#include"ass3.h"
+#include"Assignment-2.h"
 
 
 struct insideNode *CreateNode(Details inf[ ],int i)
