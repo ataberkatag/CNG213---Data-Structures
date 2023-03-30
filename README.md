@@ -1,2 +1,2 @@
-# CNG213
+# CNG213 - Data Structures 
 Assignments
